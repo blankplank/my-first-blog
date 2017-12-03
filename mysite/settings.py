@@ -25,7 +25,7 @@ SECRET_KEY = 'd%g50)*1(+^hwyks-oeow92z+fv4d3+&_9iu+seabk7nyv$mbs'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'blank.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'blankplank.pythonanywhere.com']
 
 
 # Application definition
